@@ -16,7 +16,7 @@ const App = () => {
         <Route path="/" exact={true}>
           <Users />
         </Route>
-        <Route path="/" exact={true}>
+        <Route path="/places/new" exact={true}>
           <NewPlace />
         </Route>
         {/* If there is no page in Route then redirect to default page */}
