@@ -1,1 +1,1 @@
-# Authentication done without custome authentication hook
+# Authentication done without custom authentication hook
